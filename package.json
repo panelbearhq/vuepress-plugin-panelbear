@@ -1,0 +1,28 @@
+{
+  "name": "@panelbear/vuepress-plugin-panelbear",
+  "version": "1.0.0",
+  "description": "Official Panelbear Vuepress Plugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panelbearhq/vuepress-plugin-panelbear.git"
+  },
+  "keywords": [
+    "panelbear",
+    "analytics",
+    "vue",
+    "vuepress",
+    "plugin",
+    "vuepress-plugin"
+  ],
+  "author": "Anthony N. Simon <anthony@panelbear.com>",
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "enhanceAppFile.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/panelbearhq/vuepress-plugin-panelbear/issues"
+  },
+  "homepage": "https://github.com/panelbearhq/vuepress-plugin-panelbear#readme"
+}
